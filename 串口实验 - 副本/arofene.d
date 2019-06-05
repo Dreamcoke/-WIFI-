@@ -1,0 +1,19 @@
+.\arofene.o: arofene.c
+.\arofene.o: arofene.h
+.\arofene.o: .\Device\stm32f10x.h
+.\arofene.o: .\systick\core_cm3.h
+.\arofene.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\arofene.o: .\Device\system_stm32f10x.h
+.\arofene.o: .\Device\stm32f10x_conf.h
+.\arofene.o: C:\Users\1\Desktop\串口实验 - 副本\RTE\RTE_Components.h
+.\arofene.o: .\Device\stm32f10x_adc.h
+.\arofene.o: .\Device\stm32f10x.h
+.\arofene.o: .\Device\stm32f10x_flash.h
+.\arofene.o: .\Device\stm32f10x_gpio.h
+.\arofene.o: .\Device\stm32f10x_i2c.h
+.\arofene.o: .\Device\stm32f10x_pwr.h
+.\arofene.o: .\Device\stm32f10x_rcc.h
+.\arofene.o: .\Device\stm32f10x_rtc.h
+.\arofene.o: .\Device\stm32f10x_tim.h
+.\arofene.o: .\Device\stm32f10x_usart.h
+.\arofene.o: .\Device\misc.h

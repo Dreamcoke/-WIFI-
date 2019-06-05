@@ -1,0 +1,15 @@
+.\objects\main.o: E:\QQPCMgr\串口实验\flash\main.c
+.\objects\main.o: D:\stm32库文件\stm32f10x.h
+.\objects\main.o: D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\objects\main.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: D:\stm32库文件\system_stm32f10x.h
+.\objects\main.o: D:\stm32库文件\stm32f10x_conf.h
+.\objects\main.o: C:\Users\1\Desktop\flash\RTE\RTE_Components.h
+.\objects\main.o: D:\stm32库文件\stm32f10x_flash.h
+.\objects\main.o: D:\stm32库文件\stm32f10x.h
+.\objects\main.o: D:\stm32库文件\stm32f10x_gpio.h
+.\objects\main.o: D:\stm32库文件\stm32f10x_rcc.h
+.\objects\main.o: D:\stm32库文件\stm32f10x_usart.h
+.\objects\main.o: E:\QQPCMgr\串口实验\flash\flash.h

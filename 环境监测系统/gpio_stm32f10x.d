@@ -1,0 +1,15 @@
+.\gpio_stm32f10x.o: D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.c
+.\gpio_stm32f10x.o: D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h
+.\gpio_stm32f10x.o: D:\ARM\ARMCC\Bin\..\include\stdbool.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x.h
+.\gpio_stm32f10x.o: .\systick\core_cm3.h
+.\gpio_stm32f10x.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\gpio_stm32f10x.o: D:\stm32库文件\system_stm32f10x.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_conf.h
+.\gpio_stm32f10x.o: E:\QQPCMgr\串口实验\RTE\RTE_Components.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_adc.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_gpio.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_rcc.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_tim.h
+.\gpio_stm32f10x.o: D:\stm32库文件\stm32f10x_usart.h

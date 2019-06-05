@@ -1,0 +1,98 @@
+Dependencies for Project 'flash', Target 'Target 1': (DO NOT MODIFY !)
+F (E:\QQPCMgr\����ʵ��\flash\main.c)(0x599D6AE4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+I (E:\QQPCMgr\串口实验\flash\flash.h)(0x00000000)
+F (E:\QQPCMgr\����ʵ��\flash\flash.c)(0x599D65FF)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\flash.o --omf_browse .\objects\flash.crf --depend .\objects\flash.d)
+I (E:\QQPCMgr\串口实验\flash\flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_it.h)(0x00000000)
+F (E:\QQPCMgr\����ʵ��\flash\flash.h)(0x599D65FF)()
+F (D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_flash.c)(0x52F9EB20)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_flash.o --omf_browse .\objects\stm32f10x_flash.crf --depend .\objects\stm32f10x_flash.d)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+F (D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+F (D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+F (D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9EB20)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x56F9DE5C)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc--pd "__UVISION_VERSION SETA 515" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x4F1E2E3C)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\flash -ID:\stm32���ļ�-I C:\Users\1\Desktop\flash\RTE-I C:\Users\1\Desktop\flash\RTE\Device\STM32F103C8-I D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I D:\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (D:\stm32库文件\stm32f10x.h)(0x00000000)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x55093C04)
+I (D:\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55093C04)
+I (D:\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55093C04)
+I (D:\stm32库文件\system_stm32f10x.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_conf.h)(0x00000000)
+I (C:\Users\1\Desktop\flash\RTE\RTE_Components.h)(0x599D68A6)
+I (D:\stm32库文件\stm32f10x_flash.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_gpio.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_rcc.h)(0x00000000)
+I (D:\stm32库文件\stm32f10x_usart.h)(0x00000000)

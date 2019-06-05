@@ -1,0 +1,17 @@
+.\objects\code.o: code.c
+.\objects\code.o: ..\driver\stm32f10x.h
+.\objects\code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\objects\code.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\objects\code.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\objects\code.o: ..\driver\system_stm32f10x.h
+.\objects\code.o: ..\driver\stm32f10x_conf.h
+.\objects\code.o: C:\Users\shubin\Documents\嵌入式project\串口实验\RTE\RTE_Components.h
+.\objects\code.o: ..\driver\stm32f10x_gpio.h
+.\objects\code.o: ..\driver\stm32f10x.h
+.\objects\code.o: ..\driver\stm32f10x_rcc.h
+.\objects\code.o: ..\driver\stm32f10x_usart.h
+.\objects\code.o: ..\driver\stm32f10x_it.h
+.\objects\code.o: ..\driver\stm32f10x_it.c
+.\objects\code.o: ..\driver\misc.h
+.\objects\code.o: ..\driver\misc.c

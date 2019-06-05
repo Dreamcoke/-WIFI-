@@ -1,0 +1,22 @@
+.\rtc.o: RTC\rtc.c
+.\rtc.o: RTC\rtc.h
+.\rtc.o: .\Device\stm32f10x.h
+.\rtc.o: .\systick\core_cm3.h
+.\rtc.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\rtc.o: .\Device\system_stm32f10x.h
+.\rtc.o: .\Device\stm32f10x_conf.h
+.\rtc.o: C:\Users\1\Desktop\环境检测4 - 副本\RTE\RTE_Components.h
+.\rtc.o: .\Device\stm32f10x_adc.h
+.\rtc.o: .\Device\stm32f10x.h
+.\rtc.o: .\Device\stm32f10x_flash.h
+.\rtc.o: .\Device\stm32f10x_gpio.h
+.\rtc.o: .\Device\stm32f10x_i2c.h
+.\rtc.o: .\Device\stm32f10x_pwr.h
+.\rtc.o: .\Device\stm32f10x_rcc.h
+.\rtc.o: .\Device\stm32f10x_rtc.h
+.\rtc.o: .\Device\stm32f10x_tim.h
+.\rtc.o: .\Device\stm32f10x_usart.h
+.\rtc.o: .\Device\misc.h
+.\rtc.o: .\Device\stm32f10x_bkp.c
+.\rtc.o: .\Device\stm32f10x_bkp.h
+.\rtc.o: .\sys\sys.h

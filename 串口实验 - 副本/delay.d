@@ -1,0 +1,20 @@
+.\delay.o: sys\delay.c
+.\delay.o: sys\delay.h
+.\delay.o: sys\sys.h
+.\delay.o: .\Device\stm32f10x.h
+.\delay.o: .\systick\core_cm3.h
+.\delay.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\delay.o: .\Device\system_stm32f10x.h
+.\delay.o: .\Device\stm32f10x_conf.h
+.\delay.o: C:\Users\1\Desktop\串口实验 - 副本\RTE\RTE_Components.h
+.\delay.o: .\Device\stm32f10x_adc.h
+.\delay.o: .\Device\stm32f10x.h
+.\delay.o: .\Device\stm32f10x_flash.h
+.\delay.o: .\Device\stm32f10x_gpio.h
+.\delay.o: .\Device\stm32f10x_i2c.h
+.\delay.o: .\Device\stm32f10x_pwr.h
+.\delay.o: .\Device\stm32f10x_rcc.h
+.\delay.o: .\Device\stm32f10x_rtc.h
+.\delay.o: .\Device\stm32f10x_tim.h
+.\delay.o: .\Device\stm32f10x_usart.h
+.\delay.o: .\Device\misc.h

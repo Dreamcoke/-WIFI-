@@ -1,0 +1,19 @@
+.\flash.o: flash\flash.c
+.\flash.o: flash\flash.h
+.\flash.o: .\Device\stm32f10x.h
+.\flash.o: .\systick\core_cm3.h
+.\flash.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash.o: .\Device\system_stm32f10x.h
+.\flash.o: .\Device\stm32f10x_conf.h
+.\flash.o: C:\Users\1\Desktop\串口实验 - 副本\RTE\RTE_Components.h
+.\flash.o: .\Device\stm32f10x_adc.h
+.\flash.o: .\Device\stm32f10x.h
+.\flash.o: .\Device\stm32f10x_flash.h
+.\flash.o: .\Device\stm32f10x_gpio.h
+.\flash.o: .\Device\stm32f10x_i2c.h
+.\flash.o: .\Device\stm32f10x_pwr.h
+.\flash.o: .\Device\stm32f10x_rcc.h
+.\flash.o: .\Device\stm32f10x_rtc.h
+.\flash.o: .\Device\stm32f10x_tim.h
+.\flash.o: .\Device\stm32f10x_usart.h
+.\flash.o: .\Device\stm32f10x_it.h

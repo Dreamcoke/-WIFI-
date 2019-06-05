@@ -1,0 +1,17 @@
+.\flash.o: flash\flash.c
+.\flash.o: flash\flash.h
+.\flash.o: D:\stm32库文件\stm32f10x.h
+.\flash.o: .\systick\core_cm3.h
+.\flash.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash.o: D:\stm32库文件\system_stm32f10x.h
+.\flash.o: D:\stm32库文件\stm32f10x_conf.h
+.\flash.o: C:\Users\1\Desktop\环境监测系统\RTE\RTE_Components.h
+.\flash.o: D:\stm32库文件\stm32f10x_adc.h
+.\flash.o: D:\stm32库文件\stm32f10x.h
+.\flash.o: D:\stm32库文件\stm32f10x_flash.h
+.\flash.o: D:\stm32库文件\stm32f10x_gpio.h
+.\flash.o: D:\stm32库文件\stm32f10x_i2c.h
+.\flash.o: D:\stm32库文件\stm32f10x_rcc.h
+.\flash.o: D:\stm32库文件\stm32f10x_tim.h
+.\flash.o: D:\stm32库文件\stm32f10x_usart.h
+.\flash.o: D:\stm32库文件\stm32f10x_it.h

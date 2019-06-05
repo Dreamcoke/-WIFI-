@@ -1,0 +1,20 @@
+.\lcd1602.o: 1602\lcd1602.c
+.\lcd1602.o: 1602\lcd1602.h
+.\lcd1602.o: .\Device\stm32f10x_gpio.h
+.\lcd1602.o: .\Device\stm32f10x.h
+.\lcd1602.o: .\systick\core_cm3.h
+.\lcd1602.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+.\lcd1602.o: .\Device\system_stm32f10x.h
+.\lcd1602.o: .\Device\stm32f10x_conf.h
+.\lcd1602.o: C:\Users\1\Desktop\串口实验 - 副本\RTE\RTE_Components.h
+.\lcd1602.o: .\Device\stm32f10x_adc.h
+.\lcd1602.o: .\Device\stm32f10x.h
+.\lcd1602.o: .\Device\stm32f10x_flash.h
+.\lcd1602.o: .\Device\stm32f10x_gpio.h
+.\lcd1602.o: .\Device\stm32f10x_i2c.h
+.\lcd1602.o: .\Device\stm32f10x_pwr.h
+.\lcd1602.o: .\Device\stm32f10x_rcc.h
+.\lcd1602.o: .\Device\stm32f10x_rtc.h
+.\lcd1602.o: .\Device\stm32f10x_tim.h
+.\lcd1602.o: .\Device\stm32f10x_usart.h
+.\lcd1602.o: D:\ARM\ARMCC\Bin\..\include\stdio.h
